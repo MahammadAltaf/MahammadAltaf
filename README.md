@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @MahammadAltaf
-- 👀 I’m interested in IOT projects
 - 🌱 I’m currently learning Web development
 - 💞️ I’m looking to collaborate on AI and Machine learning Projects
 
